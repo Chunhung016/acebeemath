@@ -1,0 +1,10 @@
+# Local development and test output
+tests/results/
+
+# Historical working copies kept locally, not part of the published game
+index.before-*.html
+
+# Operating-system clutter
+Thumbs.db
+Desktop.ini
+.DS_Store
